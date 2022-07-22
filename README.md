@@ -1,4 +1,4 @@
-# MERHABA DAİRE DİLİMİNİN ALANINI HESAPLAYA PROGRAMIMA HOŞ GELDİNİZ
+# MERHABA DAİRE DİLİMİNİN ALANINI HESAPLAYAN PROGRAMIMA HOŞ GELDİNİZ
 
 * [**Patika.Dev Profil Linkim**](https://app.patika.dev/guleerbilal)
 
